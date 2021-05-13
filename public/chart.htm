@@ -1,0 +1,61 @@
+<html>
+<head>
+    <style>
+        #timeline {
+            width: 50%;
+        }
+        #timelinePerHour {
+            width: 50%;
+        }
+    </style>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['timeline']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+
+            var container = document.getElementById('timeline');
+            var chart = new google.visualization.Timeline(container);
+            var dataTable = new google.visualization.DataTable();
+
+            dataTable.addColumn({ type: 'string', id: 'Position' });
+            dataTable.addColumn({ type: 'string', id: 'Name' });
+            dataTable.addColumn({ type: 'date', id: 'Start' });
+            dataTable.addColumn({ type: 'date', id: 'End' });
+            dataTable.addRows([
+                [ 'Kayak Explorer #1', 'Adam Alsing', new Date(2015, 3, 1), new Date(2015, 3, 4) ],
+                [ 'Kayak Explorer #8', 'Adam Alsing', new Date(2015, 3, 1), new Date(2015, 3, 4) ],
+                [ 'Kayak Explorer #5', 'Nils Malm', new Date(2015, 3, 2, 12, 0, 0), new Date(2015, 3, 3, 12, 0, 0) ],
+                [ 'Talt #8', 'Smeagul', new Date(2015, 3, 1, 9, 0, 0), new Date(2015, 3, 2, 18, 0, 0) ],
+
+            ]);
+            chart.draw(dataTable);
+
+            var container2 = document.getElementById('timelinePerHour');
+            var chart2 = new google.visualization.Timeline(container2);
+            var dataTable2 = new google.visualization.DataTable();
+
+            dataTable2.addColumn({ type: 'string', id: 'Position' });
+            dataTable2.addColumn({ type: 'string', id: 'Name' });
+            dataTable2.addColumn({ type: 'date', id: 'Start' });
+            dataTable2.addColumn({ type: 'date', id: 'End' });
+            dataTable2.addRows([
+                [ 'Kayak Explorer #5', 'Nils Malm', new Date(2015, 3, 2, 9, 0, 0), new Date(2015, 3, 2, 12, 0, 0) ],
+                [ 'Kayak Explorer #5', 'Nils Malm', new Date(2015, 3, 2, 15, 0, 0), new Date(2015, 3, 2, 18, 0, 0) ],
+                [ 'Talt #8', 'Smeagul', new Date(2015, 3, 2, 9, 0, 0), new Date(2015, 3, 2, 18, 0, 0) ]
+
+            ]);
+            chart2.draw(dataTable2);
+        }
+    </script>
+</head>
+<body>
+
+<h3>Bookings per day</h3>
+<div id="timeline" style="height: 280px;"></div>
+
+<h3>Bookings per hour</h3>
+<div id="timelinePerHour" style="height: 380px;"></div>
+</body>
+</html>

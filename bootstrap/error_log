@@ -1,0 +1,8 @@
+[05-Aug-2020 22:58:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/xvng58wv0rc2/public_html/bokokanot/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/bootstrap/app.php on line 14
+[07-Aug-2020 14:23:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/xvng58wv0rc2/public_html/bokokanot/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/bootstrap/app.php on line 14

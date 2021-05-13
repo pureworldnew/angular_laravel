@@ -1,0 +1,26 @@
+<?php
+return array(
+    'heading' => 'L채gg till ny kategori',
+    'titleLabel' => 'Rubrik',
+    'parentCategoryLabel' => 'Underkategori till:',
+    'titlePlaceholder' => 'Produktnamn',
+    'descriptionLabel' => 'Beskrivning',
+    'descriptionPlaceholder' => 'Produktbeskrivning',
+    'imageLabel' => 'Bild',
+    'formButton' => 'Ny kategori',
+    'addButton' => "Ny kategori",
+    'editButton' => "Spara kategori",
+    'editButtonProduct' => "Spara produkt",
+    'addButtonProduct' => "L채gg till produkten",
+    'titleLabelDe' => 'Rubrik(de)',
+    'descriptionLabelDe' => 'Beskrivning(de)',
+    'titleLabelSe' => 'Rubrik(se)',
+    'descriptionLabelSe' => 'Beskrivning(se)',
+    'addtag' => 'Lägg till taggord',
+    'opteng' => 'Alternativ(Eng)',
+    'optde' => 'Alternativ(De)',
+    'optse' => 'Alternativ(Se)',
+    'placetitle' => 'Ange titel för taggord',
+    'placeopt' => 'Ange alternativ för taggord',
+    'addtag' => 'Lägg till taggord'
+);

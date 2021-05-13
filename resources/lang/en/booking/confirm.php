@@ -1,0 +1,31 @@
+<?php
+return array(
+    'heading' => 'Your information',
+    'description' => 'Make your res',
+    'name' => 'Name',
+    'ContentBooking' => 'Content of your booking',
+    'address' => 'Address',
+    'postCode' => 'Zip code',
+    'city' => 'City',
+    'telephone' => 'Telephone',
+    'email' => 'Email',
+    'chosen' => 'You have chosen:', //You have chosen:
+    'rule' => 'Rental rules / agreements / usage rules',
+    'policy' => 'Payment / cancellation policy',
+    'confirmButton' => 'Confirm and proceed to payment',
+    'saveBookingButton' => 'Save this booking and pay later',
+    'cancelButton' => 'Cancel',
+    'backButton' => 'Cancel',
+    'delete' => 'delete',
+    'addProduct' => 'Add another product',
+    "next" => "next",
+    "previous" => "previous",
+    "confirmSend" => "Confirm and send",
+    "noProducts" => "All products have been removed",
+    "freeText" => "Anything else you would like to tell us about your booking?",
+    "password" => "Please input password",
+    "confirmpass" => "confirm Password",
+    "intro" => "Dear user, we are glad that you want to start using our booking application. Please complete the following information:",
+    "hintro" => "User Registration",
+
+);

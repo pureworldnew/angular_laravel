@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c173461b-5cd3-4c80-ba79-53cef83bc279" name="server" url="http://ftp01.space2u.com">
+        <fileTransfer host="ftp01.space2u.com" port="21" rootFolder="/laravel" password="dfc3dfd8dfd9dfe0dff3dfebdf9cdfc3dfdadff3dfeedfc5" username="4000121_kanot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

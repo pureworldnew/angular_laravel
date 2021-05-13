@@ -1,0 +1,136 @@
+<?php
+return array(
+    'mainHeading' => 'Settings',
+    'subHeading' => 'Customise texts',
+    'introPlaceholder' => 'Intro text',
+    'confirmationTextPlaceholder' => 'Enter the text of the confirmation email that is sent to the customer after making a booking',
+    'emailPlaceholder' => 'Email address',
+    'bookingRulesPlaceholder' => 'Please enter your booking conditions',
+    'paymentPolicyPlaceholder' => 'Please enter your payment policy',
+    'paymentMethodHeading' => 'Payment methods',
+    'paymentOptionCard' => 'Credit card (using Stripe)', // remove this
+    'paymentOptionCash' => 'Cash',
+    'paymentOptionTransfer' => 'Bank transfer',
+    'paymentOptionKlarna' => 'Klarna (taking ovefr payment proceedure)',
+    'paymentOptionFaktura' => 'Invoice',
+    'paymentOptionInvoice' => 'Invoice',
+    'paymentOptionStripe' => 'Stripe',
+    'paymentOptionFaktura30Days' => 'The invoice must be paid 30 days after ordering',
+    'paymentOptionFaktura5Days' => 'The invoice must be paid no later than 5 days before the start of the booked trip',
+    'namePlaceholder' => 'Centre name',
+    'logoPlaceholder' => 'The url of your logo',
+    'telephonePlaceholder' => 'Your telephone number',
+    'address1Placeholder' => 'Address row 1',
+    'address2Placeholder' => 'Address row 2',
+    'postcodePlaceholder' => 'Your zip code',
+    'web_pagePlaceholder' => 'Your web page',
+    'num_pay_advance_daysPlaceholder' => 'Number of payment days',
+    'invoice_textPlaceholder' => 'Enter instructions on how to pay using invoice',
+    'confirmationEmailPlaceholder' => 'Your confimation text',
+    'num_pay_advance_daysPlaceholder' => 'Your number of pay in advance days',
+    'introLabel' => 'Enter your introduction text',
+    'nameLabel' => "Enter your centre's name",
+    'logoLabel' => 'Enter the url of your logo',
+    'telephoneLabel' => 'Enter your telephone number',
+    'address1Label' => 'Enter your address',
+    'address2Label' => 'Enter the rest of your address',
+    'post_codeLabel' => 'Enter your zip code',
+    'web_pageLabel' => 'Enter your web site url',
+    'invoice_textLabel' => 'Enter your invoice text',
+    'intro_textLabel' => 'Enter your introduction text, that appears on your home page',
+    'confirmation_textLabel' => 'Enter the text of your confirmation email',
+    'confirmation_emailLabel' => 'Enter your confirmation email address',
+    'booking_conditionsLabel' => 'Enter your booking conditions',
+    'payment_policyLabel' => 'Enter your payment policy',
+    
+    'invoice_textLabelEn' => 'Enter your invoice text in English',
+    'invoice_textLabelDe' => 'Enter your invoice text in German',
+    'invoice_textLabelSe' => 'Enter your invoice text in Swedish',
+
+    'intro_textLabelEn' => 'Enter your intro text in English',
+    'intro_textLabelDe' => 'Enter your intro text in German',
+    'intro_textLabelSe' => 'Enter your intro text in Swedish',
+
+    'confirmationEmail_textLabel' => 'Enter your confirmation email address',
+
+    'confirmationText_textLabelEn' => 'Enter your confirmation email text in English',
+    'confirmationText_textLabelDe' => 'Enter your confirmation email text in German',
+    'confirmationText_textLabelSe' => 'Enter your confirmation email text in Swedish',
+
+    'bookingConditions_textLabelEn' => 'Enter your booking conditions text in English',
+    'bookingConditions_textLabelDe' => 'Enter your booking conditions text in German',
+    'bookingConditions_textLabelSe' => 'Enter your booking conditions text in Swedish',
+
+    'paymentPolicy_textLabelEn' => 'Enter your payment policy text in English',
+    'paymentPolicy_textLabelDe' => 'Enter your payment policy text in German',
+    'paymentPolicy_textLabelSe' => 'Enter your payment policy text in Swedish',
+
+    "paymentCashHowPlaceholder_en" => "Explain how to pay by cash in English",
+    "paymentCashHowPlaceholder_de" => "Explain how to pay by cash in German",
+    "paymentCashHowPlaceholder_se" => "Explain how to pay by cash in Swedish",
+
+    "paymentCashHowTextLabel_en" => "Explain how to pay by cash in English",
+    "paymentCashHowTextLabel_de" => "Explain how to pay by cash in German",
+    "paymentCashHowTextLabel_se" => "Explain how to pay by cash in Swedish",
+
+    "paymentInvoiceHowTextLabel_en" => "Explain how to pay by invoice in English",
+    "paymentInvoiceHowTextLabel_de" => "Explain how to pay by invoice in German",
+    "paymentInvoiceHowTextLabel_se" => "Explain how to pay by invoice in Swedish",
+
+    "paymentInvoiceHowPlaceholder_en" => "Explain how to pay by invoice in English",
+    "paymentInvoiceHowPlaceholder_de" => "Explain how to pay by invoice in German",
+    "paymentInvoiceHowPlaceholder_se" => "Explain how to pay by invoice in Swedish",
+
+    "paymentTransferHowTextLabel_en" => "Explain how to pay by bank transfer in English",
+    "paymentTransferHowTextLabel_de" => "Explain how to pay by bank transfer in German",
+    "paymentTransferHowTextLabel_se" => "Explain how to pay by bank transfer in Swedish",
+
+    "paymentTransferHowPlaceholder_en" => "Explain how to pay by bank transfer in English",
+    "paymentTransferHowPlaceholder_de" => "Explain how to pay by bank transfer in German",
+    "paymentTransferHowPlaceholder_se" => "Explain how to pay by bank transfer in Swedish",
+
+    "noDaysBeforeCancelLabel" => "How many days before can the customer cancel?",
+    "noDaysBeforeCancelPlaceholder" => "How many days before can the customer cancel?",
+
+    "num_pay_advance_daysLabel" => "How many days must they pay in advance?",
+    "num_pay_advance_daysPlaceholder" => "How many days must they pay in advance?",
+
+    "defaultLanguageLabel" => "Select the default language of your booking system",
+    "pricePerBookingLabel" => "Booking fee",
+    "pricePerBookingPlaceholder" => "Please enter your booking fee is in SEK",
+    "companyDetails" => "Company details",
+
+    "information" => "Information",
+    "payment" => "Payment",
+    "swedish" => "Swedish",
+    "english" => "English",
+    "german" => "German",
+
+    "useAdminFeeLabel" => "Show Admin fee in booking process",
+    "useAdminFeePlaceholder" => "Do you want to ask the customer about a booking free?",
+
+    'adminFeePlaceholder_en' => 'Admin fee text in English',
+    'adminFeePlaceholder_se' => 'Admin fee text in Swedish',
+    'adminFeePlaceholder_de' => 'Admin fee text in German',
+
+    "adminFeeLabel_en" => "Please enter your admin fee explanation texts in English",
+    "adminFeeLabel_se" => "Please enter your admin fee explanation texts in Swedish",
+    "adminFeeLabel_de" => "Please enter your admin fee explanation texts in German",
+    
+    'adminFeePlaceholder' => 'Please enter your admin fee',
+    "adminFeeLabel" => "Admin fee",
+
+    "klarnaLiveDetails" => "Live details",
+    "klarnaTestDetails" => "Test details",
+    "klarnaTestMode" => "Test mode",
+    "onlyKlarnaPayments" => "Only show Klarna",
+    "klarnaOnlineManagementTool" => "Klarna online management tool",
+
+    "OpeningHours" => "Opening Hour",
+    "ClosingHours" => "Closing Hour",
+    "SelectHolidayPeriod" => "Choose holiday period",
+    "date" => "Date",
+    "yes" => "Yes",
+    "no" => "No",
+    "needlogin" => "Need to log in to book",
+);

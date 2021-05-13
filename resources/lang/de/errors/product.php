@@ -1,0 +1,30 @@
+<?php
+return [
+    'pricePerBooking' => 'xxx A price per booking is required',
+    "pricePerProduct" => 'xxx A price per product is required',
+    "perTypeTime" => 'xxx Please select at least one bookable duration type',
+    "startTime" => 'xxx Please select at least one start time when duration type',
+
+    'nameRequired' => "Name is required",
+    'nameMin' => "Name should be at least 3 characters long",
+    'category_idRequired' => "Category is required",
+    'category_idNumeric' => "Category should be numeric",
+    'descriptionRequired' => "Description is required",
+    'quantityRequired' => "Quantity is required",
+    'quantityNumeric' => "Quantity must be numeric",
+    'pricePerHourNumeric' => 'Price per hour should be numeric',
+    'pricePerHourWeekendNumeric' => 'Price per hour on the weekend should be numeric',
+    'pricePerDayNumeric' => 'Price per day should be numeric',
+    'pricePerDayWeekendNumeric' => 'Price per day on the weekend should be numeric',
+    'pricePerProductNumeric' => 'Price per product should be numeric',
+    'pricePerHourOverFourNumeric' => 'Price per hour (> 4 hours) should be numeric',
+    'pricePerHourOverFourWeekendNumeric' => 'Price per hour (> 4 hours) on the weekend should be numeric',
+    'pricePerThreeSixDaysNumeric' => 'Price per day (3-6 days) should be numeric',
+    'pricePerWeekNumeric' => 'Price per week should be numeric',
+    'pricePerWeekExtraDayNumeric' => 'Price per extra day over a week should be numeric',
+
+    'per_type_idRequired' => 'Please select a per type',
+    'perTypeTimeRequired_if' => 'Please select a per time type',
+    'reservepercentageRequired' => "Reservation % is required",
+    'reservepercentageNumeric' => "Reservation % must be numeric",
+];

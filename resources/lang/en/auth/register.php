@@ -1,0 +1,20 @@
+<?php
+return array(
+    'heading' => 'Register centre',
+    'registerText' => 'We are happy that you want to start using our booking application. Please fill in the following information to start using the online booking:',
+    'name' => 'Your name',
+    'company' => 'Name of your company',
+    'email' => 'Your email address',
+    'telephone' => 'Telephone',
+    'password' => 'Password',
+    'confirmPassword' => 'Confirm Password',
+    'address' => 'Address row 1',
+    'address2' => 'Address row 2',
+    'postCode' => 'Zipcode',
+    'city' => 'City',
+    'website' => 'Web page',
+    'paymentMethod' => 'Which payment methods would you like to use?',
+    'createAccount' => 'Create Account',
+    'welcome' => 'Dear manager, we are glad that you want to start using our booking application. Fill in the following information to start using the online booking:',
+    'hd' => 'manager registration',
+);

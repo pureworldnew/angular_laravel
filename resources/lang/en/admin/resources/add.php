@@ -1,0 +1,26 @@
+<?php
+return array(
+    'heading' => 'Add category',
+    'titleLabel' => 'Title',
+    'parentCategoryLabel' => 'Parent Category',
+    'titlePlaceholder' => 'article name',
+    'descriptionLabel' => 'Description',
+    'descriptionPlaceholder' => 'product description',
+    'imageLabel' => 'Image',
+    'formButton' => 'Add category',
+    'addButton' => "Add category",
+    'editButton' => "Save category",
+    'editButtonProduct' => "Save product",
+    'addButtonProduct' => "Add product",
+    'titleLabelDe' => 'Title(de)',
+    'descriptionLabelDe' => 'Description(de)',
+    'titleLabelSe' => 'Title(se)',
+    'descriptionLabelSe' => 'Description(se)',
+    'addtag' => 'Add Tagwords',
+    'opteng' => 'options',
+    'optde' => 'options(De)',
+    'optse' => 'options(Se)',
+    'placetitle' => 'Enter Title for Tag Words',
+    'placeopt' => 'Enter Options for Tag Words',
+    'addtag' => 'Add Tagwords'
+);

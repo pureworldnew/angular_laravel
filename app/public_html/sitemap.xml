@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.bokakanot.se/</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/manage</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/booking</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/booking/confirm</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/booking/pay</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/booking/confirmation</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/resources</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/bookings</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/reports</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/settings</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/resources/categories</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/resources/artiklar</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/reports/gantt</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/reports/table</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/reports/customers</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/resources/categories/add</loc>
+</url>
+<url>
+  <loc>http://www.bokakanot.se/admin/resources/artiklar/add</loc>
+</url>
+</urlset>

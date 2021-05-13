@@ -1,0 +1,96 @@
+[05-Aug-2020 22:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/app.php on line 16
+[05-Aug-2020 22:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/broadcasting.php on line 16
+[05-Aug-2020 22:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/cache.php on line 16
+[05-Aug-2020 22:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/database.php on line 29
+[05-Aug-2020 22:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/debugbar.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/debugbar.php on line 32
+[05-Aug-2020 22:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/filesystems.php on line 48
+[05-Aug-2020 22:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/mail.php on line 18
+[05-Aug-2020 22:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/queue.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/queue.php on line 19
+[05-Aug-2020 22:59:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/services.php on line 18
+[05-Aug-2020 22:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/session.php on line 19
+[05-Aug-2020 22:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/stripe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/stripe.php on line 4
+[05-Aug-2020 22:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/view.php on line 17
+[07-Aug-2020 14:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/app.php on line 16
+[07-Aug-2020 14:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/broadcasting.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/broadcasting.php on line 16
+[07-Aug-2020 14:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/cache.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/cache.php on line 16
+[07-Aug-2020 14:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/database.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/database.php on line 29
+[07-Aug-2020 14:23:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/debugbar.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/debugbar.php on line 32
+[07-Aug-2020 14:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/filesystems.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/filesystems.php on line 48
+[07-Aug-2020 14:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/mail.php on line 18
+[07-Aug-2020 14:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/queue.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/queue.php on line 19
+[07-Aug-2020 14:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/services.php on line 18
+[07-Aug-2020 14:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/session.php on line 19
+[07-Aug-2020 14:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xvng58wv0rc2/public_html/bokokanot/config/stripe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/stripe.php on line 4
+[07-Aug-2020 14:24:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home/xvng58wv0rc2/public_html/bokokanot/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xvng58wv0rc2/public_html/bokokanot/config/view.php on line 17

@@ -1,0 +1,87 @@
+.stripe-option{
+  display: none;
+  margin-top: 15px;
+  		border: 1px solid #b5b5b5;
+
+}
+
+.stripe-option.active{
+  display: block;
+}
+
+.elshow{
+  display: block;
+}
+
+.elhide{
+  display: none;
+}
+
+/* Form */
+
+/* .payment-option-info fieldset {
+  margin-bottom: 20px;
+  background: #fff;
+  box-shadow: 0 1px 3px 0 rgba(50, 50, 93, 0.15),
+    0 4px 6px 0 rgba(112, 157, 199, 0.15);
+  border-radius: 4px;
+  border: none;
+  font-size: 0;
+}
+
+.payment-option-info fieldset label {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  height: 42px;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: center;
+  color: #8898aa;
+  font-weight: 400;
+}*/
+
+.payment-option-info .errmsg, .checkout-errormsg{
+  padding: 10px 0;
+  color: red;
+}
+
+.payment-option-info fieldset {
+  border: 1px solid gray;
+  margin-bottom: 10px;
+  background-color: transparent;
+}
+
+.payment-option-info fieldset label:not(:last-child) {
+  border-bottom: 1px solid #f0f5fa;
+}
+
+.payment-option-info fieldset label.state {
+  display: inline-flex;
+  width: 75%;
+}
+
+.payment-option-info fieldset:not(.with-state) label.state {
+  display: none;
+}
+
+.payment-option-info fieldset label.zip {
+  display: inline-flex;
+  width: 25%;
+  padding-right: 60px;
+}
+
+.payment-option-info fieldset:not(.with-state) label.zip {
+  width: 100%;
+}
+
+.payment-option-info fieldset label span {
+  min-width: 125px;
+  /* padding: 0 15px; */
+  text-align: right;
+}
+
+.payment-option-info fieldset .redirect label span {
+  width: 100%;
+  text-align: center;
+}
